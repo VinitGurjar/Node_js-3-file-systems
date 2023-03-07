@@ -1,6 +1,6 @@
 # Node_js-3-file-systems
 
-Used 3 ways to Read &amp;&amp; Write to the file system of node.js.
+Used 3 ways to Read Write to the file system of node.js.
 
 1. Callback.
 2. Sync.
